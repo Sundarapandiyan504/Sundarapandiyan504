@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundarapandiyan504" alt="sundarapandiyan504" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" />
+
 - 🌱 I’m currently learning **MERN-stack**
 
 - 👨‍💻 All of my projects are available at [https://sundarapandiyan504.github.io/portfolio/](https://sundarapandiyan504.github.io/portfolio/)
@@ -13,7 +15,6 @@
 
 - 📫 How to reach me **sundarapandiyan504@gmail.com**
 
-<img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
